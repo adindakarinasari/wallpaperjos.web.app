@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "wallpapertube",
+    "site": "wallpaperjos",
     "public": "public",
     "ignore": [
       "firebase.json",
